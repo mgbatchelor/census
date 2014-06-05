@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  placename: MyText
+  pct_hisp: 1.5
+  pct_non_hisp_white: 1.5
+  diversity_index: 1.5
+  location: MyText
+  fips: 
+  gnis: 1
+
+two:
+  placename: MyText
+  pct_hisp: 1.5
+  pct_non_hisp_white: 1.5
+  diversity_index: 1.5
+  location: MyText
+  fips: 
+  gnis: 1
